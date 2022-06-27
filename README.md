@@ -1,3 +1,8 @@
+## Hello there
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-grosskopf/)](https://www.linkedin.com/in/vitor-grosskopf/)
+
+
 - 👋 Hi, I’m @vitaoTM
 - 👀 I’m interested in DataScience and programing languages related
 - 🌱 I’m currently learning python, pandas and more
