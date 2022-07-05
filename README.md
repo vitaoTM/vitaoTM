@@ -8,7 +8,7 @@ Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming an
 
 
 - 👋 Hi, I’m @vitaoTM
-- 🌱 I’m currently learning [python](https://www.python.org/);<img src="https://img.icons8.com/metro/26/000000/python.png"/>, [pandas](https://pandas.pydata.org/) <img src="https://pandas.pydata.org/static/img/favicon_white.ico"> and more
+- 🌱 I’m currently learning [python](https://www.python.org/);<img src="https://img.icons8.com/?id=13441&size=2x&color=000000"/>, [pandas](https://pandas.pydata.org/) <img src="https://pandas.pydata.org/static/img/favicon_white.ico"> and more
 - 👀 I’m interested in DataScience and related programing languages 
 - 💞️ I have a few python projects [here](https://github.com/vitaoTM/python_projects/blob/master/Time_Series.ipynb)
 * 👩‍💻 Languages
