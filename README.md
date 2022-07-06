@@ -1,4 +1,4 @@
-## Hello, Olá, こんにちは !!     <img align="right" alt="vitaoTM-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/988632420469342228/988632420960063559/994296173936509039">
+## Hello, Olá, こんにちは !!     <img align="right" alt="vitaoTM-pic" height="80" style="border-radius:25px;" src="https://media.discordapp.net/attachments/988632420960063559/994296173651316866/wink.gif">
 
 <div>
   <a href="https://instagram.com/vitaotm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
