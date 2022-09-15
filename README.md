@@ -16,7 +16,6 @@ Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming an
   <a href="https://github.com/vitaotm">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitaotm&show_icons=true&theme=merko&include_allcommits=true&counts_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko"/>
-  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=vitaotm&theme=merko"/>
 
 </div>
 
