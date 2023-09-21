@@ -1,6 +1,6 @@
-## Hello, Olá, こんにちは !!     <img align="right" alt="vitaoTM-pic" height="80" style="border-radius:25px;" src="https://media.discordapp.net/attachments/988632420960063559/994296173651316866/wink.gif">
+## Hello, Olá, こんにちは !! 
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/vitor-grosskopf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitor.grosskopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vitaotm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 
 Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming and Data Science. I love learning new skills like, Python, JavaScript, A.I., Machine Learning you name it. Every thing related to science and the scientific method I'm in. Also, I enjoy stuff like, video games (BTW, my top 5 games franchises are Metal Gear, Bloodborne, Devil May Cry, God of War and Elden Ring), sci-fy movies, animations, photography, arts and paintings, drawing. 
 
-<div> 
+<div align="center"> 
   <a href="https://github.com/vitaotm">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitaotm&show_icons=true&theme=merko&include_allcommits=true&counts_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko"/>
