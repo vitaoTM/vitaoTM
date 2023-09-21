@@ -25,7 +25,7 @@ Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming an
 - 💞️ I have a few python projects [here](https://github.com/vitaoTM/python_projects/blob/master/Time_Series.ipynb)
 * 👩‍💻 Languages
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   
   <img align="center" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -33,8 +33,6 @@ Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming an
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img align="center" height="30" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
 
