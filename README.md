@@ -20,20 +20,20 @@ Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming an
 </div>
 
 - 👋 Hi, I’m Vitor
-- 🌱 I’m currently learning [python](https://www.python.org/), [pandas](https://pandas.pydata.org/)  and more
+- 🌱 I’m currently working as a Ruby on Rails Developer!
 - 👀 I’m interested in DataScience and related programing languages 
-- 💞️ I have a few python projects [here](https://github.com/vitaoTM/python_projects/blob/master/Time_Series.ipynb)
+
 * 👩‍💻 Languages
 
 <div style="display: inline_block" align="center"><br>
-  
+
+  <img align="center" height="30" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" height="30" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" height="30" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
 
 ##
