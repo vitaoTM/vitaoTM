@@ -5,7 +5,7 @@
   <a href = "mailto:vitor.grosskopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vitaotm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--   <a href="https://discord.gg/MCkQY5VU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href="https://open.spotify.com/playlist/3yeeofQBHvIs0UfgGFOtO8?si=4352d073b4444356"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a>  
+  <a href="https://open.spotify.com/playlist/3yeeofQBHvIs0UfgGFOtO8?si=4352d073b4444356" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a>  
 </div>
 
 #
