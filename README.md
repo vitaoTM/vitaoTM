@@ -10,7 +10,11 @@
 
 #
 
-Hi, my name is Vitor I am a Master in Chemistry, but now I'm into programming and Data Science. I love learning new skills like, Python, JavaScript, A.I., Machine Learning you name it. Every thing related to science and the scientific method I'm in. Also, I enjoy stuff like, video games (BTW, my top 5 games franchises are Metal Gear, Bloodborne, Devil May Cry, God of War and Elden Ring), sci-fy movies, animations, photography, arts and paintings, drawing. 
+Hi, my name is Vitor I am Ruby on Rails developer, I'm also into Data Science.
+
+My background is in science, I have a Masters degree in chemistry, and always worked with a lot of Data.
+
+I got into programming by learning python first, to deal with my Masters reseach, and after that went to web development. 
 
 <div align="center"> 
   <a href="https://github.com/vitaotm">
