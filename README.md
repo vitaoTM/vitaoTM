@@ -19,7 +19,7 @@ I got into programming by learning python first, to deal with my Masters reseach
 <div align="center"> 
   <a href="https://github.com/vitaotm">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitaotm&show_icons=true&theme=merko&include_allcommits=true&counts_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko&hide_progress=true"/>
 
 </div>
 
