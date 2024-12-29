@@ -5,7 +5,8 @@
   <a href = "mailto:vitor.grosskopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vitaotm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--   <a href="https://discord.gg/MCkQY5VU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href="https://open.spotify.com/playlist/3yeeofQBHvIs0UfgGFOtO8?si=4352d073b4444356" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a>  
+  <a href="https://open.spotify.com/playlist/3yeeofQBHvIs0UfgGFOtO8?si=4352d073b4444356" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> 
+</a>  
 </div>
 
 #
@@ -20,6 +21,7 @@ I got into programming by learning python first, to deal with my Masters reseach
   <a href="https://github.com/vitaotm">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitaotm&show_icons=true&theme=merko&include_allcommits=true&counts_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko&hide_progress=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitaoTM&theme=merko" alt="GitHub Streak">
 <!--   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&wakatime?username=vitaotm"    /> -->
 
 
