@@ -20,12 +20,15 @@ I got into programming by learning python first, to deal with my Masters reseach
 <div align="center"> 
   <a href="https://github.com/vitaotm">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitaotm&show_icons=true&theme=merko&include_allcommits=true&counts_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko&hide_progress=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitaoTM&theme=merko" alt="GitHub Streak">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitaoTM&theme=merko" alt="GitHub Streak"> -->
 <!--   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&wakatime?username=vitaotm"    /> -->
-
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaotm&layout=compact&langs_count=16&theme=merko&hide_progress=true"/>
+  <img heigth="180cm" src="https://git-hub-streak-stats.vercel.app?user=vitaoTM&theme=merko&card_width=685" />
 
 </div>
+
+
+
 
 - 👋 Hi, I’m Vitor
 - 🌱 I’m currently working as a Ruby on Rails Developer!
