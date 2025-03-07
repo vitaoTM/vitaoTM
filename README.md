@@ -3,6 +3,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-grosskopf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitor.grosskopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+    
+  [![LeetCode user vitaotm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvitaotm&logo=leetcode&logoColor=yellow)](https://leetcode.com/vitaotm/)
  <!-- <a href="https://instagram.com/vitaotm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --≥
 <!--   <a href="https://discord.gg/MCkQY5VU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 <!--  <a href="https://open.spotify.com/playlist/3yeeofQBHvIs0UfgGFOtO8?si=4352d073b4444356" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> 
